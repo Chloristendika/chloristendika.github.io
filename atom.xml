@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wrua的小窝</title>
+  
+  <subtitle>魔法点滴</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-01-17T16:28:59.976Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Chloris Wang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于我 - About Me</title>
+    <link href="http://example.com/2025/01/18/hello-world/"/>
+    <id>http://example.com/2025/01/18/hello-world/</id>
+    <published>2025-01-17T16:00:00.000Z</published>
+    <updated>2025-01-17T16:28:59.976Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于我-About-Me"><a href="#关于我-About-Me" class="headerlink" title="关于我 - About Me"></a>关于我 - About Me</h1><p>hello大家好，欢迎来到wrua的小窝</p><h2 id="我是谁？"><a href="#我是谁？" class="headerlink" title="我是谁？"></a>我是谁？</h2><p>正如网页主页可见，我是Chloris，一位热爱魔术和CS的“爬行者”</p><h2 id="这个BLOG是做什么的？"><a href="#这个BLOG是做什么的？" class="headerlink" title="这个BLOG是做什么的？"></a>这个BLOG是做什么的？</h2><p>这里会记录我的课程学习笔记</p><p>或是魔术IDEA随想</p><p>亦或是小事的一些日记</p><h2 id="关于目标"><a href="#关于目标" class="headerlink" title="关于目标"></a>关于目标</h2><p>博主很想变强，于是建了个blog，督促自己码字，督促自己变强~</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;关于我-About-Me&quot;&gt;&lt;a href=&quot;#关于我-About-Me&quot; class=&quot;headerlink&quot; title=&quot;关于我 - About Me&quot;&gt;&lt;/a&gt;关于我 - About Me&lt;/h1&gt;&lt;p&gt;hello大家好，欢迎来到wrua的小窝&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>USTC魔术之夜实录</title>
+    <link href="http://example.com/2025/01/18/tt/"/>
+    <id>http://example.com/2025/01/18/tt/</id>
+    <published>2025-01-17T16:00:00.000Z</published>
+    <updated>2025-01-17T16:29:38.308Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="第一次重要的登台表演"><a href="#第一次重要的登台表演" class="headerlink" title="第一次重要的登台表演"></a>第一次重要的登台表演</h1><p>111</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;第一次重要的登台表演&quot;&gt;&lt;a href=&quot;#第一次重要的登台表演&quot; class=&quot;headerlink&quot; title=&quot;第一次重要的登台表演&quot;&gt;&lt;/a&gt;第一次重要的登台表演&lt;/h1&gt;&lt;p&gt;111&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="魔术" scheme="http://example.com/tags/%E9%AD%94%E6%9C%AF/"/>
+    
+    <category term="日记" scheme="http://example.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+</feed>
