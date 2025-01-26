@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-01-17T16:28:59.976Z</updated>
+  <updated>2025-01-18T04:39:51.357Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,12 @@
     <link href="http://example.com/2025/01/18/hello-world/"/>
     <id>http://example.com/2025/01/18/hello-world/</id>
     <published>2025-01-17T16:00:00.000Z</published>
-    <updated>2025-01-17T16:28:59.976Z</updated>
+    <updated>2025-01-18T04:39:51.357Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="关于我-About-Me"><a href="#关于我-About-Me" class="headerlink" title="关于我 - About Me"></a>关于我 - About Me</h1><p>hello大家好，欢迎来到wrua的小窝</p><h2 id="我是谁？"><a href="#我是谁？" class="headerlink" title="我是谁？"></a>我是谁？</h2><p>正如网页主页可见，我是Chloris，一位热爱魔术和CS的“爬行者”</p><h2 id="这个BLOG是做什么的？"><a href="#这个BLOG是做什么的？" class="headerlink" title="这个BLOG是做什么的？"></a>这个BLOG是做什么的？</h2><p>这里会记录我的课程学习笔记</p><p>或是魔术IDEA随想</p><p>亦或是小事的一些日记</p><h2 id="关于目标"><a href="#关于目标" class="headerlink" title="关于目标"></a>关于目标</h2><p>博主很想变强，于是建了个blog，督促自己码字，督促自己变强~</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="关于我-About-Me"><a href="#关于我-About-Me" class="headerlink" title="关于我 - About Me"></a>关于我 - About Me</h1><p>hello大家好，欢迎来到wrua的小窝</p><span id="more"></span><h2 id="我是谁？"><a href="#我是谁？" class="headerlink" title="我是谁？"></a>我是谁？</h2><p>正如网页主页可见，我是Chloris，一位热爱魔术和CS的“爬行者”</p><h2 id="这个BLOG是做什么的？"><a href="#这个BLOG是做什么的？" class="headerlink" title="这个BLOG是做什么的？"></a>这个BLOG是做什么的？</h2><p>这里会记录我的课程学习笔记</p><p>或是魔术IDEA随想</p><p>亦或是小事的一些日记</p><h2 id="关于目标"><a href="#关于目标" class="headerlink" title="关于目标"></a>关于目标</h2><p>博主很想变强，于是建了个blog，督促自己码字，督促自己变强~</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h1 id=&quot;关于我-About-Me&quot;&gt;&lt;a href=&quot;#关于我-About-Me&quot; class=&quot;headerlink&quot; title=&quot;关于我 - About Me&quot;&gt;&lt;/a&gt;关于我 - About Me&lt;/h1&gt;&lt;p&gt;hello大家好，欢迎来到wrua的小窝&lt;/p&gt;
-&lt;</summary>
-      
+    <summary type="html">&lt;h1 id=&quot;关于我-About-Me&quot;&gt;&lt;a href=&quot;#关于我-About-Me&quot; class=&quot;headerlink&quot; title=&quot;关于我 - About Me&quot;&gt;&lt;/a&gt;关于我 - About Me&lt;/h1&gt;&lt;p&gt;hello大家好，欢迎来到wrua的小窝&lt;/p&gt;</summary>
     
     
     
@@ -44,15 +40,14 @@
     <link href="http://example.com/2025/01/18/tt/"/>
     <id>http://example.com/2025/01/18/tt/</id>
     <published>2025-01-17T16:00:00.000Z</published>
-    <updated>2025-01-17T16:29:38.308Z</updated>
+    <updated>2025-01-18T08:44:05.288Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="第一次重要的登台表演"><a href="#第一次重要的登台表演" class="headerlink" title="第一次重要的登台表演"></a>第一次重要的登台表演</h1><p>111</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一次重要的登台表演"><a href="#第一次重要的登台表演" class="headerlink" title="第一次重要的登台表演"></a>第一次重要的登台表演</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在正式加入USTC魔术协会之后，能够登台演出一直是一个挺高的愿望，而在大二上学期，可以说双喜临门，获得了两次登台表演的机会，其一是标题所写的USTC魔术之夜，其二则是火灾实验室元旦晚会。</p><p>本文将从接到演出任务，选择魔术流程，到最终表演作一次简单但较为完整的叙述</p><h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>魔术之夜的活动已有三四年未曾举办过了，今年恢复是我早已知道的了。学期初定的时间只有粗略的十二月份，没有一个具体的时间。</p><p>开初因为我特别喜欢Eric的retention手法（ukawa vanish），因此特别想选一个能带入这个手法的流程。但因为涉及到硬币，</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;第一次重要的登台表演&quot;&gt;&lt;a href=&quot;#第一次重要的登台表演&quot; class=&quot;headerlink&quot; title=&quot;第一次重要的登台表演&quot;&gt;&lt;/a&gt;第一次重要的登台表演&lt;/h1&gt;&lt;p&gt;111&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;第一次重要的登台表演&quot;&gt;&lt;a href=&quot;#第一次重要的登台表演&quot; class=&quot;headerlink&quot; title=&quot;第一次重要的登台表演&quot;&gt;&lt;/a&gt;第一次重要的登台表演&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerli</summary>
       
     
     
@@ -61,6 +56,21 @@
     <category term="魔术" scheme="http://example.com/tags/%E9%AD%94%E6%9C%AF/"/>
     
     <category term="日记" scheme="http://example.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Joshua Jay Penguin Lecture Live Notes</title>
+    <link href="http://example.com/2025/01/18/Jay/"/>
+    <id>http://example.com/2025/01/18/Jay/</id>
+    <published>2025-01-17T16:00:00.000Z</published>
+    <updated>2025-01-20T02:45:17.536Z</updated>
+    
+    
+    
+    
+    
+    <category term="魔术" scheme="http://example.com/tags/%E9%AD%94%E6%9C%AF/"/>
     
   </entry>
   
